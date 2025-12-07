@@ -1,0 +1,5 @@
+{
+  "name": "Tactical Football Simulator",
+  "description": "A tactical football match simulation dashboard replicating match lineups, player ratings, and live commentary powered by Gemini AI.",
+  "requestFramePermissions": []
+}
