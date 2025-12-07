@@ -50,7 +50,7 @@ export const INITIAL_HOME_TEAM: Team = {
 export const INITIAL_AWAY_TEAM: Team = {
   id: AWAY_TEAM_ID,
   name: 'Eintracht Frankfurt',
-  abbreviation: 'SGE',
+  abbreviation: 'EFF',
   color: '#000000', // Black primary
   secondaryColor: '#E1000F', // Red secondary
   formation: '3-4-2-1',
